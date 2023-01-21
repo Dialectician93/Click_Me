@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+}
+
+
+
+#color-button{
+text-align: center;
+padding: 0.8rem 1.9rem;
+border-radius: 10px;
+width: 15rem;
+}
+#color-button:hover{
+    width: 7rem;
+    transition: ease-in-out 1s;
+    padding: 0.4rem 0.9rem;
+    color: white;
+}
