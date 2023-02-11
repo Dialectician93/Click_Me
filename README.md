@@ -1,2 +1,2 @@
-# ClicK_Me
-https://dialectician93.github.io/ClicK_Me/
+# Click_Me
+https://dialectician93.github.io/Click_Me/
